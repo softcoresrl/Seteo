@@ -1,4 +1,4 @@
-.yaml
+.github/workflows/superlinter.yml
 .node_modules
 DockerFile
 .dockerignore
