@@ -1,0 +1,12 @@
+{
+  "name": "seteo",
+  "version": "1.0.0",
+  "description": "A easy to use advanced Meteo app.",
+  "license": "ISC",
+  "author": "Softcore",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  }
+}
