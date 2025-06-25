@@ -1,3 +1,11 @@
 .node_modules
 Dockerfile
 .dockerignore
+.env
+env/.env
+/generated/prisma
+prisma.bat
+push_v2.bat
+.prisma/dev.db
+prisma/migrations
+./generated

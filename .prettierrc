@@ -1,0 +1,15 @@
+{   
+    "useTabs": true,
+    "semi": false,
+    "singleQuote": false,
+    "trailingComma": "es5",
+    "bracketSpacing": true,
+    "jsxBracketSameLine": false,
+    "arrowParens": "always",
+    "embeddedLanguageFormatting": "auto",
+    "proseWrap": "preserve",
+    "requirePragma": false,
+    "insertPragma": true,
+    "quoteProps": "as-needed",
+    "plugins": ["Prettier - Code formatter",  "ESLint"]
+}
